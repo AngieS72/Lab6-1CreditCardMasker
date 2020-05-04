@@ -1,0 +1,36 @@
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe.config
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.pdb
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.FormCreditCardMasker.resources
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.Properties.Resources.resources
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csproj.GenerateResource.cache
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\source\repos\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.pdb
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe.config
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.pdb
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.FormCreditCardMasker.resources
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.Properties.Resources.resources
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csproj.GenerateResource.cache
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\Desktop\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.pdb
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe.config
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.pdb
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.FormCreditCardMasker.resources
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.Properties.Resources.resources
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csproj.GenerateResource.cache
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.pdb
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe.config
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\bin\Debug\Lab6-1CreditCardMasker.pdb
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.FormCreditCardMasker.resources
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6_1CreditCardMasker.Properties.Resources.resources
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.csproj.GenerateResource.cache
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.exe
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 6 Labs\Lab6-1CreditCardMasker\Lab6-1CreditCardMasker\obj\Debug\Lab6-1CreditCardMasker.pdb

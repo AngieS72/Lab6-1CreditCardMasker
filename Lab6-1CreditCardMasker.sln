@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6-1CreditCardMasker", "Lab6-1CreditCardMasker\Lab6-1CreditCardMasker.csproj", "{3E48878D-4E06-4C99-B495-51B7B732FFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E48878D-4E06-4C99-B495-51B7B732FFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E48878D-4E06-4C99-B495-51B7B732FFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E48878D-4E06-4C99-B495-51B7B732FFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E48878D-4E06-4C99-B495-51B7B732FFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10B7CF4-696B-41D8-9C0F-B07811B4D6FA}
+	EndGlobalSection
+EndGlobal
